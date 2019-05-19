@@ -1,0 +1,25 @@
+<style>
+	.contenedor-imagen {
+		text-align: center;
+	}
+	.imagen {
+		width: 200px;
+		height: 200px;
+		border-radius: 50%;
+		border: 5px solid #FFFFFF;
+   		margin-top:150px;
+	}
+	.nombre{
+		text-align: center;
+		color:white;
+		font-family: 'Indie Flower', cursive;
+		font-size: 48px;
+	}
+	body{
+		background: url("https://images.pexels.com/photos/1631678/pexels-photo-1631678.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+		background-repeat:no-repeat;
+		background-position:50% 50%; 
+		background-color:black;
+		text-align: center;
+	}
+ </style>
